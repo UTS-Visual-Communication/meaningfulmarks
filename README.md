@@ -1,5 +1,4 @@
-# Overview for Generative Design and 
-Files for Text and Image I Brief 'Meaningful Marks'
+# Class Overview for Generative Design and Interactive Image Task
 
 ## Week 11
 ### Task 1: Generative Poster Task (Time: Approximately 1hr)
