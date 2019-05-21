@@ -12,6 +12,7 @@ First of all you will be leading students through a generative poster task, this
 1. As students are working on their poster, please give them feedback or encouragement with how they are going with the task.
 1. Once they have all finished please take a moment to have the groups walk around the room and to see what happened with everyone elses posters so they can see the variation from a simple set of instructions.
 1. We then have two code examples available on UTS Online that they can open up.
+1. 
 
 #### An Image That Can Change
 
