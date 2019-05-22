@@ -16,6 +16,7 @@ First of all you will be leading students through a generative poster task, this
 1. This year we are using P5.js which is basically a Javascript based 'version' of Processing. You can read a bit about it here https://p5js.org/get-started/.
 1. Get the students to open up the index.html of each example in the browser. They can click on the canvas to generate a new compostion.
 1. Get them to open up the sketch.js file in Brackets. This is a basic editor where you can edit the code. I have put some comments in the code, where they can edit the parameters and change the outcome. When they have made their edits, they need to save the sketch.js file in the editor and then go back to the index.html file they have open in the brower and refresh it. They should then see the results of how they have edited the code.
+1. When students have finished with the kits, please make sure they are packed away neatly! If students have not done this please take some time to fix up the kits after both morning and afternoon studios.
 
 #### Task 2: An Image That Can Change (Drawing with Code)
 You will then get you to introdouce them to the second task. For this task they will be drawing a simple visual symbol with code and getting that symbol to change in response to a mouse click. See the brief for this task here https://monicamonin.github.io/meaningfulmarks/text-and-image-I.html
